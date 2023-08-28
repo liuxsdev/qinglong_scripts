@@ -1,0 +1,17 @@
+{
+  "name": "qinglong_scripts",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@liuxsdev/poetry": "^0.1.4",
+    "fanfou-sdk": "^5.0.0"
+  }
+}
